@@ -2,7 +2,6 @@
 
 Welcome to my practice repository! This project contains my code and handwritten notes as I learn deep learning using the book **Hands-On Machine Learning with Scikit-Learn, TensorFlow, and Keras** by Aurélien Géron and the [Deep Learning Specialization playlist by Andrew Ng](https://youtube.com/playlist?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc&si=3jYzNcxgcTYQg_Vv).
 
----
 
 ## 📚 About This Repository
 
@@ -14,7 +13,6 @@ Welcome to my practice repository! This project contains my code and handwritten
   - Book: *Hands-On Machine Learning with Scikit-Learn, TensorFlow, and Keras* by Aurélien Géron
   - Playlist: [Deep Learning Specialization by Andrew Ng](https://youtube.com/playlist?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc&si=3jYzNcxgcTYQg_Vv)
 
----
 
 ## 📝 Contents
 
@@ -23,7 +21,6 @@ Welcome to my practice repository! This project contains my code and handwritten
 - `Hyperparameter Tuning.pdf`:  
   File containing scanned handwritten notes and summaries from Andrew Ng's classes.
 
----
 
 ## 🚀 Example: Model Architecture
 
@@ -43,7 +40,6 @@ The notebook implements a sequential deep neural network with the following arch
 - **Trainable parameters:** 268,978  
 - **Non-trainable parameters:** 2,368
 
----
 
 ## 📈 Training Example
 
@@ -54,7 +50,6 @@ Sample training output:
 > Epoch 2/2  
 > 1719/1719 [5s 3ms/step] - accuracy: 0.8562 - loss: 0.4074 - val_accuracy: 0.8670 - val_loss: 0.3646
 
----
 
 ## 🎯 Learning Goals
 
@@ -62,7 +57,6 @@ Sample training output:
 - Apply techniques such as batch normalization and hyperparameter tuning.
 - Reinforce concepts through handwritten notes and practical coding exercises.
 
----
 
 ## 📚 References
 
@@ -71,7 +65,6 @@ Sample training output:
 - **Playlist:**  
   [Deep Learning Specialization by Andrew Ng]
 
----
 
 ## 🙌 Acknowledgements
 
@@ -79,7 +72,6 @@ Sample training output:
 - Andrew Ng for the excellent video lectures.
 - The open-source community for tools and resources.
 
----
 
 ## 📢 How to Use
 
@@ -88,7 +80,6 @@ Sample training output:
 3. Browse the `notes/` folder for handwritten summaries.
 4. Explore, experiment, and learn!
 
----
 
 Happy Learning! 🚀
 
